@@ -1,4 +1,4 @@
-# BugendaiTechRepo
+# BugendaiTech
 
 <div id="header" align="center">
   
